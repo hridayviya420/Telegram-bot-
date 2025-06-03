@@ -3,9 +3,9 @@ from telebot import types
 import json
 import time
 import uuid
-from config import BOT_TOKEN, ADMIN_ID
+from config import 7685911102:AAHw1OMUR88gfzdgy3UAsAjSspYVLSpo-Gk, ADMIN_ID
 
-bot = telebot.TeleBot(BOT_TOKEN)
+bot = telebot.TeleBot(7685911102:AAHw1OMUR88gfzdgy3UAsAjSspYVLSpo-Gk)
 
 # Data functions
 def load_data():
