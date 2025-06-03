@@ -1,0 +1,12 @@
+{
+  "users": {},
+  "ads": [
+    {
+      "id": 1,
+      "title": "Visit Our Sponsor",
+      "url": "https://example.com",
+      "reward": 2
+    }
+  ],
+  "withdrawals": []
+}
