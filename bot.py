@@ -3,7 +3,7 @@ from telebot import types
 import json
 import time
 import uuid
-from config import 7685911102:AAHw1OMUR88gfzdgy3UAsAjSspYVLSpo-Gk, ADMIN_ID
+from config import 7685911102:AAHw1OMUR88gfzdgy3UAsAjSspYVLSpo-Gk, @hridayviya28
 
 bot = telebot.TeleBot(7685911102:AAHw1OMUR88gfzdgy3UAsAjSspYVLSpo-Gk)
 
